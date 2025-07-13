@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbyte_site=self.webpackChunkbyte_site||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"\u0645\u0637\u0627\u0644\u0628 \u0645\u0646\u062a\u0634\u0631 \u0634\u062f\u0647","items":[{"title":"My Titr","permalink":"/blog/my-titr","unlisted":false,"date":"2025-04-24T00:00:00.000Z"}]}')}}]);
