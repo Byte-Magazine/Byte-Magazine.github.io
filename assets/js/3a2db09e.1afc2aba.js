@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbyte_site=self.webpackChunkbyte_site||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"python","permalink":"/blog/tags/python","count":1},{"label":"closure","permalink":"/blog/tags/closure","count":1}]}')}}]);

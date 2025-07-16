@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbyte_site=self.webpackChunkbyte_site||[]).push([[8146],{9328:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/blog","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"\u0648\u0628\u0644\u0627\u06af \u0646\u0634\u0631\u06cc\u0647\u200c\u06cc \u0628\u0627\u06cc\u062a","blogTitle":"\u0648\u0628\u0644\u0627\u06af"}}')}}]);
