@@ -4,26 +4,64 @@
         <title>نشریه‌ی علمی فرهنگی بایت Blog</title>
         <link>https://byte-mag.ir/blog</link>
         <description>نشریه‌ی علمی فرهنگی بایت Blog</description>
-        <lastBuildDate>Thu, 24 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fa</language>
         <item>
-            <title><![CDATA[My Titr]]></title>
-            <link>https://byte-mag.ir/blog/2025/04/24/my-titr</link>
-            <guid>https://byte-mag.ir/blog/2025/04/24/my-titr</guid>
-            <pubDate>Thu, 24 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[توضیحات هدر]]></description>
-            <content:encoded><![CDATA[<p>توضیحات داخل متن</p>
-<p>اول کار</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ساب-هد">ساب هد<a href="https://byte-mag.ir/blog/2025/04/24/my-titr#%D8%B3%D8%A7%D8%A8-%D9%87%D8%AF" class="hash-link" aria-label="لینک مستقیم به ساب هد" title="لینک مستقیم به ساب هد">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ساب-هد-1">ساب هد<a href="https://byte-mag.ir/blog/2025/04/24/my-titr#%D8%B3%D8%A7%D8%A8-%D9%87%D8%AF-1" class="hash-link" aria-label="لینک مستقیم به ساب هد" title="لینک مستقیم به ساب هد">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ساب-هد-2">ساب هد<a href="https://byte-mag.ir/blog/2025/04/24/my-titr#%D8%B3%D8%A7%D8%A8-%D9%87%D8%AF-2" class="hash-link" aria-label="لینک مستقیم به ساب هد" title="لینک مستقیم به ساب هد">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ساب-هد-3">ساب هد<a href="https://byte-mag.ir/blog/2025/04/24/my-titr#%D8%B3%D8%A7%D8%A8-%D9%87%D8%AF-3" class="hash-link" aria-label="لینک مستقیم به ساب هد" title="لینک مستقیم به ساب هد">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ساب-هد-4">ساب هد<a href="https://byte-mag.ir/blog/2025/04/24/my-titr#%D8%B3%D8%A7%D8%A8-%D9%87%D8%AF-4" class="hash-link" aria-label="لینک مستقیم به ساب هد" title="لینک مستقیم به ساب هد">​</a></h2>
-<div class="language-python codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-python codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">def</span><span class="token plain"> </span><span class="token function" style="color:rgb(80, 250, 123)">greet</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">name</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">return</span><span class="token plain"> </span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)">f"Hello, </span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string-interpolation interpolation">name</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)">"</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">say_hello </span><span class="token operator">=</span><span class="token plain"> greet</span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">print</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">say_hello</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token string" style="color:rgb(255, 121, 198)">"Alice"</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"></span><span class="token comment" style="color:rgb(98, 114, 164)"># =&gt; Hello, Alice</span><br></span></code></pre></div></div>]]></content:encoded>
-            <category>python</category>
-            <category>closure</category>
+            <title><![CDATA[ترملی؛ مدیر یکپارچهٔ برنامهٔ دانشگاهی با تکیه بر معماری ماژولار]]></title>
+            <link>https://byte-mag.ir/blog/2025/10/20/termly</link>
+            <guid>https://byte-mag.ir/blog/2025/10/20/termly</guid>
+            <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ترملی یک وب‌اپ دانشجویی است که زمان‌بندی‌ِ آزمون‌ها، کوییزها و ددلاین‌ها را با تقویم شمسی، اعلان‌ها و یک ربات تلگرام یکپارچه می‌کند. این سامانه توسط «علی مقدسی»، ورودی ۱۴۰۲ مهندسی کامپیوتر، توسعه داده شده است و با رویکردی چابک، قابلیت مشارکت دانشجویان را در نقش ادمین فراهم می‌سازد.]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="معرفی-و-مسئله">معرفی و مسئله<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%88-%D9%85%D8%B3%D8%A6%D9%84%D9%87" class="hash-link" aria-label="لینک مستقیم به معرفی و مسئله" title="لینک مستقیم به معرفی و مسئله">​</a></h2>
+<p>در محیط‌های دانشگاهی، پراکندگی اطلاعات مربوط به رویدادهای درسی—از کوییزهای هفتگی تا ددلاین تمرین و پروژه—سبب فراموشی یا هم‌پوشانی کارها می‌شود. ترملی با هدف کاهش این اصطکاک، تقویمی هدف‌مند و قابل شخصی‌سازی ارائه می‌دهد تا دانشجو تنها رویدادهای مرتبط با درس‌های انتخابی خود را ببیند. نتیجه،</p>
+<p>تصویری یکپارچه از هفته‌ها و ماه‌های آتی است که با شمارشگر روزهای باقی‌مانده، اولویت‌بندی را ساده می‌کند.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="الگوی-استفاده-و-نقشها">الگوی استفاده و نقش‌ها<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D8%A7%D9%84%DA%AF%D9%88%DB%8C-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%88-%D9%86%D9%82%D8%B4%D9%87%D8%A7" class="hash-link" aria-label="لینک مستقیم به الگوی استفاده و نقش‌ها" title="لینک مستقیم به الگوی استفاده و نقش‌ها">​</a></h2>
+<p>پس از ثبت‌نام مختصر (نام کامل، سال ورود، دانشکده، ایمیل و گذرواژه)، کاربر فهرست درس‌ها را مرور و انتخاب می‌کند؛ سپس در داشبورد، همهٔ رویدادهای مرتبط با درس‌های خود را با تاریخ شمسی و زمان دقیق مشاهده خواهد کرد.</p>
+<p>افزون بر نقش دانشجو، سامانه دارای نقش ادمین است: افزودن/ویرایش/حذف رویدادها، مدیریت یادداشت‌های درسی و رسیدگی به گزارش‌های کاربران. نکتهٔ مهم آن‌که ادمین‌ها دانشجو هستند و هر دانشجویی که علاقه‌مند باشد می‌تواند به تیم ادمین بپیوندد تا تقویم درس‌ها را برای استفادهٔ جمعی به‌روز نگه دارد.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="استک-فناوری-و-منطق-انتخابها">استک فناوری و منطق انتخاب‌ها<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D8%A7%D8%B3%D8%AA%DA%A9-%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C-%D9%88-%D9%85%D9%86%D8%B7%D9%82-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%87%D8%A7" class="hash-link" aria-label="لینک مستقیم به استک فناوری و منطق انتخاب‌ها" title="لینک مستقیم به استک فناوری و منطق انتخاب‌ها">​</a></h2>
+<ul>
+<li>
+<p><strong>فرانت‌اند</strong>: Next.js (React, TypeScript) — انتخاب Next.js به دلیل پشتیبانی از رندر سمت‌سرور (SSR) و مسیرهای هیبریدی، زمان واکنش مناسب، و سادگی استقرار است. استفاده از TypeScript کاهش خطا و ارتقای نگهداشت‌پذیری را در پی دارد؛ مزیتی که با بزرگ‌تر شدن کدبیس حائز اهمیت می‌شود.</p>
+</li>
+<li>
+<p><strong>بک‌اند</strong>: Django + Django REST Framework — DRF چارچوبی بالغ برای ساخت APIهای سازگار و مستند فراهم می‌کند. مدل‌سازی دقیق موجودیت‌ها (کاربر، درس، رویداد، گزارش) در جنگو، یکپارچگی داده و اعمال اعتبار‌سنجی را ساده می‌سازد.</p>
+</li>
+<li>
+<p><strong>پایگاه‌داده</strong>: PostgreSQL — با توجه به ماهیت رابطه‌ای داده‌ها (ارتباط چند-به-چند کاربر/درس و یک-به-چند درس/رویداد)، PostgreSQL با تضمین یکپارچگی مرجع و پشتیبانی از پرس‌وجوهای پیچیده انتخابی معقول است.</p>
+</li>
+<li>
+<p><strong>کتابخانه‌های رابط کاربری</strong>: استفاده از مجموعهٔ کامپوننت‌های آماده و استاندارد باعث یکنواختی تجربهٔ کاربری می‌شود و با افزودن لایهٔ ظرافت‌های حرکتی، تعامل‌پذیری بهبود می‌یابد.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="مدل-داده-و-انواع-رویداد">مدل داده و انواع رویداد<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D9%85%D8%AF%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF" class="hash-link" aria-label="لینک مستقیم به مدل داده و انواع رویداد" title="لینک مستقیم به مدل داده و انواع رویداد">​</a></h2>
+<p>دیزاین پیشنهادی شامل جداول کاربر، درس، رویداد و گزارش است. هر رویداد به یک درس متصل است و یکی از انواع exam، deadline، quiz یا midterm را دارد.</p>
+<p>نگهداری تاریخ در قالب شمسی (Jalali) و زمانِ جداگانه باعث می‌شود هم نمایش برای کاربر ایرانی دقیق باشد و هم تبدیل‌های زمانی/نمایشی کنترل‌شده باقی بماند. این طراحی مانع از خطاهای مرسوم در محاسبات تاریخ و فیلترگذاری بازه‌ها می‌شود.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="تجربهٔ-کاربری-و-طراحی-رابط">تجربهٔ کاربری و طراحی رابط<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D8%AA%D8%AC%D8%B1%D8%A8%D9%87%D9%94-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D9%88-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7" class="hash-link" aria-label="لینک مستقیم به تجربهٔ کاربری و طراحی رابط" title="لینک مستقیم به تجربهٔ کاربری و طراحی رابط">​</a></h2>
+<p>رابط ترملی مینیمال و محتوامحور است: داشبورد، فهرست رویدادهای پیش‌ِ رو را به‌همراه شمارشگر روزهای باقی‌مانده و فیلترهای لازم نمایش می‌دهد. ریسپانسیو بودن، استفادهٔ روان در نمایشگرهای کوچک را تضمین می‌کند و حالت تیره/روشن، خوانش‌پذیری را در محیط‌های مختلف بهبود می‌دهد. برای بهبود ادراک کاربر از تغییر وضعیت‌ها (مانند افزوده‌شدن یک رویداد یا تأیید یک گزارش)، از گذارهای حرکتی ملایم بهره گرفته می‌شود تا پیامدِ عمل کاربر واضح و بی‌ابهام باشد.
+داشبورد وبسایت برای استفاده راحت شما:</p>
+<div style="text-align:center"><img decoding="async" loading="lazy" src="https://byte-mag.ir/assets/images/1-c597131a9723b28697de05c34a2497c4.png" width="940" height="611" class="img_ev3q"></div>
+<p>تقویم آموزشی شما با توجه به درس‌هایی که انتخاب می‌کنید و همچنین کارهای شخصی‌ای که به برنامتون اضافه می‌کنید به شکل زیر میشه:</p>
+<div style="text-align:center"><img decoding="async" loading="lazy" src="https://byte-mag.ir/assets/images/2-2d8ca82f134203b892c1a824ecc08058.png" width="940" height="611" class="img_ev3q"></div>
+<p>توی این تقویم با hover کردن ماوستون روی هر روزی که رویداد هست می‌تونید اطلاعات مربوط به اون رویداد رو ببینید.</p>
+<p>البته که سایت به صورت ریسپانسیو هست و تمام این قابلیت‌ها رو روی گوشیتون هم دارید.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="یکپارچهسازی-اعلانها-با-تلگرام">یکپارچه‌سازی اعلان‌ها با تلگرام<a href="https://byte-mag.ir/blog/2025/10/20/termly#%DB%8C%DA%A9%D9%BE%D8%A7%D8%B1%DA%86%D9%87%D8%B3%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B9%D9%84%D8%A7%D9%86%D9%87%D8%A7-%D8%A8%D8%A7-%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85" class="hash-link" aria-label="لینک مستقیم به یکپارچه‌سازی اعلان‌ها با تلگرام" title="لینک مستقیم به یکپارچه‌سازی اعلان‌ها با تلگرام">​</a></h2>
+<p>ترملی از طریق یک ربات تلگرام یادآوری‌های سررسیدها، کوییزها و آزمون‌ها را ارسال می‌کند. این رویکرد، اعلان‌ها را از مرورگر مستقل می‌کند و به کاربر اجازه می‌دهد در محیطی آشنا پیگیری کند. افزون بر رویدادهای درسی، کاربر می‌تواند تسک‌های شخصی را نیز ثبت کند تا همان سازوکار یادآوری برای فعالیت‌های غیردانشگاهی نیز کارآمد باشد. که این ربات با آی‌دی termlysut_bot در دسترس می‌باشد.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="فرایندهای-مدیریتی-و-کیفیت-داده">فرایندهای مدیریتی و کیفیت داده<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D8%AF%DB%8C%D8%B1%DB%8C%D8%AA%DB%8C-%D9%88-%DA%A9%DB%8C%D9%81%DB%8C%D8%AA-%D8%AF%D8%A7%D8%AF%D9%87" class="hash-link" aria-label="لینک مستقیم به فرایندهای مدیریتی و کیفیت داده" title="لینک مستقیم به فرایندهای مدیریتی و کیفیت داده">​</a></h2>
+<p>دقت و به‌روز بودن داده، نقطهٔ کانونی چنین سامانه‌ای است. در ترملی:
+<strong>ورود نیم‌سال</strong>: در ابتدای هر ترم، دادهٔ آزمون‌ها/کوییزها/ددلاین‌ها وارد می‌شود.</p>
+<p><strong>مشارکت دانشجویی</strong>: ادمین‌های دانشجو رویدادها را برای درس‌های خود و دیگران ثبت/تصحیح می‌کنند.</p>
+<p><strong>گزارش کاربر</strong>: هر دانشجو می‌تواند کمبود یا خطا را گزارش کند و ادمین وضعیت رسیدگی را به «در حال بررسی/حل‌شده» تغییر دهد.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="امنیت-و-حریم-خصوصی">امنیت و حریم خصوصی<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D9%88-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C" class="hash-link" aria-label="لینک مستقیم به امنیت و حریم خصوصی" title="لینک مستقیم به امنیت و حریم خصوصی">​</a></h2>
+<p>گذرواژه‌ها به‌صورت امن نگهداری می‌شوند (هش‌شده) و ارتباطات کاربر/سامانه بر بستر HTTPS توصیه می‌شود.</p>
+<p>جداسازی فرانت‌اند و بک‌اند، پیاده‌سازی سیاست CORS و نرخ‌دهی درخواست‌ها (Rate Limiting) را تسهیل می‌کند. برای اعلان‌ها، حداقل‌داده‌ی لازم مبادله می‌شود تا حریم خصوصی کاربر حفظ شود. (در صورت نیاز به ممیزی امنیتی، می‌توان ثبت رویدادها و گزارش‌های سیستمی را به‌صورت ساختاریافته فعال کرد.)</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="بازبودن-مسیر-مشارکت">بازبودن مسیر مشارکت<a href="https://byte-mag.ir/blog/2025/10/20/termly#%D8%A8%D8%A7%D8%B2%D8%A8%D9%88%D8%AF%D9%86-%D9%85%D8%B3%DB%8C%D8%B1-%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA" class="hash-link" aria-label="لینک مستقیم به بازبودن مسیر مشارکت" title="لینک مستقیم به بازبودن مسیر مشارکت">​</a></h2>
+<p>ترملی توسط دانشجویان مدیریت می‌شود و پذیرای ادمین‌های داوطلب است؛ این مشارکت، چابکی سامانه را افزایش می‌دهد و پوشش درس‌ها را کامل‌تر می‌کند. دانشجویان علاقه‌مند می‌توانند در به‌روزرسانی تقویم درس‌ها، بهبود رابط کاربری یا حتی توسعهٔ ویژگی‌های جدید مشارکت کنند.
+در صورتی که علاقه‌مند به مشارکت در ترملی هستید به <a href="https://t.me/ali0083moi" target="_blank" rel="noopener noreferrer">به این آیدی</a> در تلگرام پیام دهید.</p>]]></content:encoded>
+            <category>Web</category>
+            <category>Django</category>
+            <category>Next.js</category>
         </item>
     </channel>
 </rss>

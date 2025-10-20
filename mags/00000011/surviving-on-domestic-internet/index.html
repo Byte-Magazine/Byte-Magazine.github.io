@@ -10,9 +10,9 @@
 
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous"><link rel="stylesheet" href="/assets/css/styles.6097ea85.css">
-<script src="/assets/js/runtime~main.edab292f.js" defer="defer"></script>
-<script src="/assets/js/main.e5254d43.js" defer="defer"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css" integrity="sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM" crossorigin="anonymous"><link rel="stylesheet" href="/assets/css/styles.d9965ab3.css">
+<script src="/assets/js/runtime~main.5d172556.js" defer="defer"></script>
+<script src="/assets/js/main.c609e46a.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
@@ -27,23 +27,21 @@
 <p>در چین، اینترنت ملی با استفاده از فایروال‌های بسیار قدرتمند کنترل می‌شود و در عین حال، جایگزین‌های داخلی قوی برای خدمات جهانی مانند گوگل، یوتیوب و حتی ChatGPT فراهم شده‌است.</p>
 <p>اما در ایران، مشکل اصلی ضعف زیرساخت‌هاست. مثلاً:</p>
 <ul>
-<li>ما موتور جستجوی داخلی قدرتمندی نداریم.
+<li>ما موتور جستجوی داخلی قدرتمندی نداریم.</li>
+</ul>
 <span class="wrapper_CZBo"><span class="text_qqsc"><span><strong>مراکز داده</strong></span></span><span class="tooltip_lI6R undefined">Data Centers</span></span>
-به سرورهای بین‌المللی متصل نیستند.</li>
+<p>به سرورهای بین‌المللی متصل نیستند.</p>
+<ul>
 <li>بسیاری از خدمات نرم‌افزاری به اینترنت جهانی نیاز دارند. مثلاً اگر بخواهید با Docker یک Image را اجرا کنید، معمولاً باید به رجیستری‌های خارجی متصل شوید که در صورت قطع اینترنت، ممکن نیست.</li>
 </ul>
 <p>در این یادداشت سعی داریم که از توانایی زیرساخت‌های فعلی‌مان نهایت استفاده را بکنیم تا در شرایطی که دسترسی به شبکۀ بین‌الملل امکان‌پذیر نبود، بتوانیم حتی‌الامکان سرویس‌مان را بالا نگه‌داریم.
 اولین نکته، استفاده از Version Control Systemهاست. اکثر سرویس‌های شرکت‌های ایرانی در VSCهایی مانند GitHub یا GitLab نگه‌داری می‌‌شوند که در صورت قطعی، دسترسی به آن‌ها امکان‌پذیر نیست. در صورتی‌که از git سازمانی استفاده می‌کنید، خوب است که در شبکۀ داخلی نیز بتوانید آن را بالا نگه‌دارید، در غیر این‌صورت، می‌توانید از hamgit به آدرس <a href="https://hamgit.ir" target="_blank" rel="noopener noreferrer">hamgit.ir</a> یا arvangit به آدرس <a href="https://git.arvancloud.ir" target="_blank" rel="noopener noreferrer">git.arvancloud.ir</a> استفاده نمایید؛ یک Gitlab که بر روی سرورهای داخلی بالا آمده و تمامی امکانات GitLab Enterprise را در اختیارتان قرار خواهد داد.</p>
 <p>در صورت اجرای اینترنت ملی، نخستین مشکلی که ایجاد می‌شود مربوط به DNS است. اکثر DNSهای پرکاربرد دنیا مانند Google DNS و Cloudflare در خارج از کشور قرار دارند. در نتیجه اگر سایت شما بخواهد یک آدرس را resolve کند و DNS شما خارجی باشد، دیگر به آن پاسخ نمی‌رسد. شرکت‌هایی مانند ابر آروان اقدام به ارائهٔ DNS Resolverهای داخلی کرده‌اند که می‌توانند این مشکل را تا حدی برطرف کنند. در ادامه تعدادی آدرس resolver که داخلی هستند را در اختیارتان قرار خواهیم داد که در این شرایط بتوانید آن‌ها را جایگزین کنید:</p>
-<div dir="ltr"><ul>
-<li>217.218.155.155</li>
-<li>5.200.200.200</li>
-<li>217.218.127.127</li>
-</ul></div>
+<div dir="ltr">- 217.218.155.155 - 5.200.200.200 - 217.218.127.127</div>
 <p>نحوۀ تنظیم آن در
 <a href="https://medium.com/@ajonesb/resolving-sudden-dns-issues-on-ubuntu-a-step-by-step-guide-1f9ab1c27a32" target="_blank" rel="noopener noreferrer">این لینک</a>
 برای Mac ،Ubuntu و Windows آمده است.</p>
-<p>مورد دیگری که ممکن است به کارتان بیاید، استفاده از mirrorهای داخلی برای package managerها است. زمانی که شما بخواهید در زمان اینترنت ملی از package managerهای معروف مانند apt استفاده کنید، به مشکل خواهید خورد. زیرا apt نیاز دارد که به mirrorهای Debian متصل شود تا پکیج‌های مربوطه را به‌روز‌رسانی و یا نصب کند. در این شرایط نیز می‌توانید از mirrorهای داخلی استفاده کنید و آن‌ها را جایگزین mirrorهای Debian که در خارج از کشور هستند کنید تا بتوانید پکیج‌های مورد نظرتان را نصب و یا به‌روز‌رسانی کنید. در لینک زیر توضیحات مربوطه به mirrorهای  داخلی آمده‌است. البته ممکن است شما بخواهید سرویس خود را build کنید. در این صورت نیاز به یک سری پکیج‌هایی دارید که نمی‌توانید آن‌ها را دانلود کنید، زیرا در خارج از کشور مستقر شده‌اند. برای این امر نیز می‌توانید از mirrorهای این لینک استفاده نمایید.</p>
+<p>مورد دیگری که ممکن است به کارتان بیاید، استفاده از mirrorهای داخلی برای package managerها است. زمانی که شما بخواهید در زمان اینترنت ملی از package managerهای معروف مانند apt استفاده کنید، به مشکل خواهید خورد. زیرا apt نیاز دارد که به mirrorهای Debian متصل شود تا پکیج‌های مربوطه را به‌روز‌رسانی و یا نصب کند. در این شرایط نیز می‌توانید از mirrorهای داخلی استفاده کنید و آن‌ها را جایگزین mirrorهای Debian که در خارج از کشور هستند کنید تا بتوانید پکیج‌های مورد نظرتان را نصب و یا به‌روز‌رسانی کنید. در لینک زیر توضیحات مربوطه به mirrorهای داخلی آمده‌است. البته ممکن است شما بخواهید سرویس خود را build کنید. در این صورت نیاز به یک سری پکیج‌هایی دارید که نمی‌توانید آن‌ها را دانلود کنید، زیرا در خارج از کشور مستقر شده‌اند. برای این امر نیز می‌توانید از mirrorهای این لینک استفاده نمایید.</p>
 <div style="text-align:center;margin:0 0;font-size:1.1em"><p><a href="https://runflare.com/mirrors" target="_blank" rel="noopener noreferrer">https://runflare.com/mirrors</a></p></div>
 <p>همان‌طور که بالاتر گفتم، docker یکی از ابزارهای پرکابرد و محبوب برای برنامه‌نویسان است. در زمانی که شبکه داخلی است، امکان استفاده از مخزن‌های خارجی مانند Docker Hub و یا  Google و... نیست. یکی از رجیستری‌های داخلی که شما می‌توانید مخازن خود را با استفاده از آن مدیریت کنید،
 <a href="https://registry.hamdocker.ir" target="_blank" rel="noopener noreferrer">registry.hamdocker.ir</a> است. همچنین در لینک زیر توضیحات مناسب برای تنظیم رجیستری‌های داخلی جهت pull کردن imageهای آزاد و محبوب آمده‌است که شما می‌توانید آن‌ها را تنظیم کنید تا docker از این مخازن بخواند.</p>
