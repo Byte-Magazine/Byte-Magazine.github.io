@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbyte_site=self.webpackChunkbyte_site||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"Web","permalink":"/blog/tags/web","count":1},{"label":"Django","permalink":"/blog/tags/django","count":1},{"label":"Next.js","permalink":"/blog/tags/next-js","count":1}]}')}}]);
