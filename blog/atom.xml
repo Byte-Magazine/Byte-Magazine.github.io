@@ -8,11 +8,11 @@
     <subtitle>نشریه‌ی علمی فرهنگی بایت Blog</subtitle>
     <icon>https://byte-mag.ir/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[بازی دانشکده]]></title>
+        <title type="html"><![CDATA[طراحی لابی دانشکده در اولین دورهٔ رویداد باگزبازی]]></title>
         <id>https://byte-mag.ir/blog/2025/11/20/bugsbuzzy</id>
         <link href="https://byte-mag.ir/blog/2025/11/20/bugsbuzzy"/>
         <updated>2025-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[پای لپتاپ‌تان کمی در دانشکدهٔ کامپیوتر قدم بزنید.]]></summary>
+        <summary type="html"><![CDATA[پای لپ‌تاپ‌تان کمی در لابی دانشکده قدم بزنید. شاید آن‌جا اتاق بایت را بیابید! معماهای مختلف در اتاق‌های گوناگون در انتظار شما هستند.]]></summary>
         <content type="html"><![CDATA[<p>در برگزاری باگزبازی، به‌عنوان اولین رویداد بازی‌سازی (گیم‌جم) دانشکدهٔ کامپیوتر شریف، توانستیم اندکی مخاطبین خود را با فضای جذاب این حوزه آشنا کنیم. یکی از خروجی‌های این رویداد که با تلاش تیم علمی آماده شد، «بازی دانشکده» بود. ایدهٔ داشتن چنین بازی‌ای، که در آن کل دانشکده را به‌صورت یک مدل سه‌بعدی داشته باشیم، ابتدا در یک جلسهٔ بارش فکری مطرح شد. قرار بود چیزی مشابه لابی یک بازی باشد که در آن، شرکت‌کنندگان می‌توانستند بین بازی‌های گیم‌جم جابجا شوند. چندین گزینه مطرح بود؛ محیط یک غار، یک هتل و در بین آن‌ها، لابی خود دانشکدهٔ کامپیوتر هم یکی از این موارد بود.</p>
 <p>با توجه به پیدا کردن یک اپ به نام PolyCam، فکر کردیم ایدهٔ خوبی است که کل لابی را اسکن کنیم. پس از جدی‌تر شدن قضیه، این کار را به محمدمهدی حسینی، یکی از اعضای تیم علمی سپردیم که لابی را بازسازی کند. اما نمی‌دانستیم که او یک بلندرکار قهار است و درخواست ما را چندین لول ارتقاء می‌دهد. او کل لابی دانشکده را در <span class="wrapper_CZBo"><span class="text_qqsc"><span>بلندر</span></span><span class="tooltip_lI6R undefined">Blender</span></span> -ابزاری حرفه‌ای برای طراحی سه‌بعدی- طراحی کرد.</p>
 <div style="text-align:center;margin:2rem 0"><p><img decoding="async" loading="lazy" alt="لابی دانشکده" src="https://byte-mag.ir/assets/images/1-0d2c8c71fbe66b3ab57deb7a4ca09265.jpg" width="1280" height="667" class="img_ev3q"></p></div>
@@ -42,6 +42,9 @@
         <author>
             <name>مهدی علینژاد</name>
         </author>
+        <category label="GameJam" term="GameJam"/>
+        <category label="Godot" term="Godot"/>
+        <category label="BugsBuzzy" term="BugsBuzzy"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[ترملی؛ مدیر یکپارچهٔ برنامهٔ دانشگاهی با تکیه بر معماری ماژولار]]></title>
