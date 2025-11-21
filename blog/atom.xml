@@ -35,6 +35,10 @@
 <span dir="rtl" style="unicode-bidi:isolate"><a href="https://dl.bugsbuzzy.ir/games/lobbygame/windows.zip" target="_blank" rel="noopener noreferrer" class="">نسخهٔ ویندوز</a></span>
 </li>
 </ul>
+<blockquote>
+<p>برای اجرای نسخه وب روی سیستم خودتان می‌توانید از دستور زیر استفاده کنید: <code>python -m http.server 8000</code> <br>
+سپس بازی از طریق این آدرس در دسترس خواهد بود: <code>localhost:8000/Lobby_Game.html</code></p>
+</blockquote>
 <p>خوب است از همهٔ افرادی که در طراحی این بازی کمک کردند، تشکر ویژه‌ای بکنم؛ از بین فعالیت‌های تیم علمی، شخصاً بیشتر از همه به این مورد افتخار می‌کنم.</p>
 <p>با تشکر از</p>
 <ol>
