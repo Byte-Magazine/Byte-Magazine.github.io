@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://byte-mag.ir
+Sitemap: https://byte-mag.ir/sitemap.xml
