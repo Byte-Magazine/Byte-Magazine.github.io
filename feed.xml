@@ -3,7 +3,7 @@
   <channel>
     <title>نشریه‌ی علمی فرهنگی بایت</title>
     <link>https://byte-mag.ir/</link>
-    <description>نشریه‌ی علمی فرهنگی بایت، دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی شریف</description>
+    <description>نشریه‌ی علمی فرهنگی بایت، دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی شریف؛ مقاله‌هایی دربارهٔ هوش مصنوعی، امنیت، شبکه، سخت‌افزار، سیستم‌ها و زندگی دانشجویی</description>
     <language>fa-IR</language>
     <lastBuildDate>Thu, 17 Sep 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://byte-mag.ir/feed.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://byte-mag.ir/mags/00001001/sarmaghale/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/sarmaghale/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>میان ماندن و رفتن، ترس ایستاده بود...</description>
+      <description>میان ماندن و رفتن، ترس ایستاده بود... — این روزها که یکی‌یکی دوستانم چمدان می‌بندند و از این‌جا می‌روند، بیشتر از آن‌که به رفتن آن‌ها فکر کنم، به ماندن خودم…</description>
       <dc:creator>امیرحسین شهیدی</dc:creator>
       <category>سرمقاله</category>
     </item>
@@ -32,7 +32,7 @@
       <link>https://byte-mag.ir/mags/00001001/silicon-spies/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/silicon-spies/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>پردازنده‌ها چگونه خودشان را مانیتور می‌کنند؟</description>
+      <description>پردازنده‌ها چگونه خودشان را مانیتور می‌کنند؟ — شاید تا به حال برایتان این پرسش پیش آمده باشد که سیستم‌عامل اصلاً از کجا می‌فهمد پردازنده چند بار در خواندن…</description>
       <dc:creator>نیما شیرزادی</dc:creator>
       <category>Hardware</category>
       <category>Computer Architecture</category>
@@ -43,7 +43,7 @@
       <link>https://byte-mag.ir/mags/00001001/bunjs/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/bunjs/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>معرفی یک Runtime دیگر جاوااسکریپت</description>
+      <description>معرفی یک Runtime دیگر جاوااسکریپت — اگر مدتی در دنیای JavaScript برنامه‌نویسی کرده باشید، احتمالاً میز کارتان با ابزارهای مختلفی شلوغ شده‌است: یک Runtime برای…</description>
       <dc:creator>معین آعلی</dc:creator>
       <category>JavaScript</category>
       <category>Web</category>
@@ -65,7 +65,7 @@
       <link>https://byte-mag.ir/mags/00001001/invisible-compilers/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/invisible-compilers/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>سفر شگفت‌انگیز کدهای برنامه‌نویسی به دنیای صفر و یک</description>
+      <description>سفر شگفت‌انگیز کدهای برنامه‌نویسی به دنیای صفر و یک — وقتی کدی را به زبان‌های محبوبی مانند JavaScript ،Go ،Python یا Rust می‌نویسیم، معمولاً درگیر این پیچیدگی…</description>
       <dc:creator>نیما شیرزادی</dc:creator>
       <category>Compilers</category>
       <category>LLVM</category>
@@ -85,7 +85,7 @@
       <link>https://byte-mag.ir/mags/00001001/os-real-time-postmortem/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/os-real-time-postmortem/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>چگونه سیستم‌عامل را در عمیق‌ترین لایه‌ها عیب‌یابی کنیم؟</description>
+      <description>چگونه سیستم‌عامل را در عمیق‌ترین لایه‌ها عیب‌یابی کنیم؟ — در دنیای امروز که معماری‌های میکروسرویس و کلاسترهای K8s روزبه‌روز پیچیده‌تر می‌شوند، ابزارهای سنتی…</description>
       <dc:creator>نیما شیرزادی</dc:creator>
       <category>eBPF</category>
       <category>Linux</category>
@@ -96,7 +96,7 @@
       <link>https://byte-mag.ir/mags/00001001/can-silicon-suffer/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/can-silicon-suffer/</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
-      <description>معمای ذهن در عصر ماشین</description>
+      <description>معمای ذهن در عصر ماشین — فیلم علمی-تخیلی « فرا-ماشین » با آزمونی به‌ظاهر آشنا آغاز می‌شود: یک برنامه‌نویس جوان به نام کیلب مأمور می‌شود تا با یک هوش مصنوعی…</description>
       <dc:creator>مهدی شاه‌مرادی</dc:creator>
       <category>Philosophy of Mind</category>
       <category>Cognitive Science</category>
@@ -127,7 +127,7 @@
       <link>https://byte-mag.ir/mags/00001001/wss-zombie/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001001/wss-zombie/</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description>روایت پاکسازی یک بدافزار پایدار از سرور سایت رویداد WSS</description>
+      <description>روایت پاکسازی یک بدافزار پایدار از سرور سایت رویداد WSS — ماجرا دقیقاً در روزهای پرفشار و حساس آماده‌سازی سایت رویداد WSS آغاز شد. در حالی‌که تمام تمرکز تیم…</description>
       <dc:creator>نیما شیرزادی</dc:creator>
       <category>Security</category>
       <category>Malware</category>
@@ -138,7 +138,7 @@
       <link>https://byte-mag.ir/mags/00001000/we-the-people/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/we-the-people/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>بیانیه تیم بایت دانشگاه صنعتی شریف</description>
+      <description>بیانیه تیم بایت دانشگاه صنعتی شریف — باز هم می‌گویند: «اکنون وقت گفت‌وگوست، وقت آرامش است. باید به شیوهٔ درست اعتراض کرد!» اما این پرسش‌های ساده، بی‌پاسخ باقی…</description>
       <category>Internet</category>
     </item>
     <item>
@@ -146,7 +146,7 @@
       <link>https://byte-mag.ir/mags/00001000/starlink/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/starlink/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>جهان در عصر جدید، ایران در عصر حجر</description>
+      <description>جهان در عصر جدید، ایران در عصر حجر — در روزهای اخیر به دلیل قطع بی‌سابقۀ همۀ راه‌های ارتباطی و اینترنت در کشور، احتمالاً همگی نام استارلینک را شنیده‌ایم؛ شرکت…</description>
       <category>Internet</category>
       <category>Network</category>
     </item>
@@ -155,7 +155,7 @@
       <link>https://byte-mag.ir/mags/00001000/random-facts/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/random-facts/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Iran built a vast camera network to control dissent. Israel hacked it</description>
+      <description>Iran built a vast camera network to control dissent. Israel hacked it تیتر روزنامه Los Angeles Times در مورد دسترسی اسرائیل به دوربین‌های نظارتی در ایران در…</description>
       <category>دانستنی‌ها</category>
     </item>
     <item>
@@ -163,7 +163,7 @@
       <link>https://byte-mag.ir/mags/00001000/Internet-Traffic-Routing/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/Internet-Traffic-Routing/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>روش‌هایی برای عبور امن ترافیک از مسیرهای غیرمستقیم</description>
+      <description>روش‌هایی برای عبور امن ترافیک از مسیرهای غیرمستقیم — در دنیای امروز، گاهی محدودیت‌های اینترنتی باعث می‌شوند دسترسی به سرویس‌ها و اطلاعات مورد نیاز دشوار شود…</description>
       <dc:creator>سعید فراتی کاشانی</dc:creator>
       <category>Internet</category>
       <category>Network</category>
@@ -173,7 +173,7 @@
       <link>https://byte-mag.ir/mags/00001000/Killing-Machine-01/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/Killing-Machine-01/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>ماشین کشتار: بخش اول</description>
+      <description>ماشین کشتار: بخش اول — در بیست‌وچهار ساعت اول جنگ با ایران، ایالات متحده به بیش از ۱۰۰۰ هدف حمله کرد، یعنی به‌طور میانگین ۴۲ هدف در هر ساعت. تا زمان برقراری…</description>
       <dc:creator>Steve Feldstein</dc:creator>
       <category>AI</category>
       <category>Security</category>
@@ -183,7 +183,7 @@
       <link>https://byte-mag.ir/mags/00001000/Major-Outage/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/Major-Outage/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>مروری بر زندانی کردن جهان آزاد در ایران</description>
+      <description>مروری بر زندانی کردن جهان آزاد در ایران — ۳۲ سال قبل، هنگامی که اینترنت به‌صورت همگانی در اختیار کاربران ایرانی قرار گرفت، کمتر کاربری در کشور تصور می‌کرد که…</description>
       <dc:creator>سورنا کیا</dc:creator>
       <category>Internet</category>
       <category>Network</category>
@@ -193,7 +193,7 @@
       <link>https://byte-mag.ir/mags/00001000/Internet-is-a-fundamental-right/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/Internet-is-a-fundamental-right/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>ابعاد اقتصادی و اجتماعی قطعی اینترنت</description>
+      <description>ابعاد اقتصادی و اجتماعی قطعی اینترنت — شاید سخن گفتن از خسارات قطعی اینترنت بر اقتصاد دیجیتال و تأثیرات روانی ناشی از آن پس از آن‌چه که در این مدت تجربه…</description>
       <dc:creator>سورنا کیا</dc:creator>
       <category>Internet</category>
     </item>
@@ -202,7 +202,7 @@
       <link>https://byte-mag.ir/mags/00001000/how-to-stay-anonymous-on-the-internet/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/how-to-stay-anonymous-on-the-internet/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>ردپاهای دیجیتال، VPN، Tor و اصول پایۀ ناشناس‌سازی</description>
+      <description>ردپاهای دیجیتال، VPN، Tor و اصول پایۀ ناشناس‌سازی — انسان‌ها در دنیای واقعی، به محض خروج از درب منزل، تحت نظر چشم‌ها هستند (به شرطی که لوازم الکترونیکی نقش…</description>
       <dc:creator>Amnam</dc:creator>
       <category>Security</category>
       <category>Internet</category>
@@ -212,7 +212,7 @@
       <link>https://byte-mag.ir/mags/00001000/Killing-Machine-02/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/Killing-Machine-02/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>ماشین کشتار: بخش دوم</description>
+      <description>ماشین کشتار: بخش دوم — حذف این موانع از سوی پنتاگون نه‌تنها کنترل‌های فرایندی را از میان برد، بلکه زمان اختصاص‌یافته برای تحلیل اطلاعات ورودی را نیز به‌شدت…</description>
       <dc:creator>Steve Feldstein</dc:creator>
       <category>AI</category>
       <category>Security</category>
@@ -222,7 +222,7 @@
       <link>https://byte-mag.ir/mags/00001000/engineering-for-censorship-resistance/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/engineering-for-censorship-resistance/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>کالبدشکافی اکوسیستم کانفیگ‌های V2Ray/Xray</description>
+      <description>کالبدشکافی اکوسیستم کانفیگ‌های V2Ray/Xray — هنگام استفاده از کانفیگ‌های V2ray، باید واژگانی نظیر VMess، VLESS و Trojan را دیده باشید. کانفیگ‌هایی که برای…</description>
       <dc:creator>فرزام کوهی</dc:creator>
       <category>Internet</category>
       <category>Security</category>
@@ -232,7 +232,7 @@
       <link>https://byte-mag.ir/mags/00001000/rebellion-in-layer4/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/rebellion-in-layer4/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>عبور از فیلترینگ با نقض استانداردهای TCP</description>
+      <description>عبور از فیلترینگ با نقض استانداردهای TCP — در این مقاله به بررسی فنی دو پروژهٔ ساختارشکن GFW-Knocker و paqet می‌پردازیم که با رویکردی کاملاً متفاوت از…</description>
       <dc:creator>محراب مرادزاده</dc:creator>
       <category>Internet</category>
       <category>Network</category>
@@ -242,7 +242,7 @@
       <link>https://byte-mag.ir/mags/00001000/its-just-us-and-pro-internet-now/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/its-just-us-and-pro-internet-now/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>بعضی چیزها زود فراموش می‌شوند.</description>
+      <description>بعضی چیزها زود فراموش می‌شوند. — در دی‌ماه سال گذشته که متن‌های «قطعی بزرگ» و «اینترنت، حق مسلم» را می‌نوشتم، نقل‌قول‌ها و نشانه‌هایی از اینترنت پرو و طبقاتی…</description>
       <dc:creator>سورنا کیا</dc:creator>
       <category>Internet</category>
     </item>
@@ -251,7 +251,7 @@
       <link>https://byte-mag.ir/mags/00001000/people-vs-people/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/people-vs-people/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>توتالیتاریسم چطور روح جمعی را می‌کشد؟</description>
+      <description>توتالیتاریسم چطور روح جمعی را می‌کشد؟ — یکی از قدیمی‌ترین شیوه‌های حفظ قدرت، آن چیزی است که در ادبیات سیاسی از آن با عنوان تفرقه بینداز و حکومت کن یاد می‌شود…</description>
       <category>Internet</category>
     </item>
     <item>
@@ -259,7 +259,7 @@
       <link>https://byte-mag.ir/mags/00001000/happy-now-internet-outage-profiteers/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/happy-now-internet-outage-profiteers/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>نگاهی به بازیگران صنعت فیلترینگ</description>
+      <description>نگاهی به بازیگران صنعت فیلترینگ — در روزگاری که کشور پیاپی درگیر اعتراضات، تنش‌های نظامی و تورم افسارگسیخته است و بازار کار به بحرانی‌ترین وضعیت خود در…</description>
       <dc:creator>امیرحسین شهیدی</dc:creator>
       <category>Internet</category>
     </item>
@@ -268,7 +268,7 @@
       <link>https://byte-mag.ir/mags/00001000/the-great-outage/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00001000/the-great-outage/</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
-      <description>به یاد یک قربانی دیگر</description>
+      <description>به یاد یک قربانی دیگر — شاید برایتان عجیب باشد که چرا برای قطعی بزرگ اسفند تا اردیبهشت فقط این مقدار جا در نظر گرفتیم، در حالی که برای قطعی دی و بهمن، تمامی…</description>
       <category>Internet</category>
       <category>Network</category>
     </item>
@@ -294,7 +294,7 @@
       <link>https://byte-mag.ir/mags/00000111/sarmaghale/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/sarmaghale/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>ویژه برای همه</description>
+      <description>ویژه برای همه — وقتی به اولین روزهایی فکر می‌کنم که پایم را به این دانشگاه و دانشکده گذاشتم، به وضوح حس سردرگمی‌ای که ذهنم را فرا گرفته بود به یاد می‌آورم…</description>
       <dc:creator>آروین بقال اصل</dc:creator>
       <category>سرمقاله</category>
       <category>ورودی</category>
@@ -304,7 +304,7 @@
       <link>https://byte-mag.ir/mags/00000111/codenameh-byte/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/codenameh-byte/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>چطور شریفی‌های چند سال پیش، برنامه‌نویسی یاد می‌گرفتند؟</description>
+      <description>چطور شریفی‌های چند سال پیش، برنامه‌نویسی یاد می‌گرفتند؟ — امیدوارم از خواندن این شماره از نشریه بایت لذت ببرید! آماده‌سازی این نشریه به شکل شماره‌ای که پیش…</description>
       <dc:creator>سید پارسا نشایی</dc:creator>
       <category>تاریخچه</category>
       <category>ورودی</category>
@@ -314,7 +314,7 @@
       <link>https://byte-mag.ir/mags/00000111/professors-welcoming/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/professors-welcoming/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>اساتید همراه شما در مسیر یادگیری خواهند بود.</description>
+      <description>پیام‌های خوش‌آمدگویی اساتید دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی شریف به دانشجویان ورودی جدید؛ اساتید همراه شما در مسیر یادگیری خواهند بود.</description>
       <dc:creator>دکتر امیرحسین جهانگیر</dc:creator>
       <dc:creator>دکتر شاهین حسابی</dc:creator>
       <dc:creator>دکتر علی شریفی زرچی</dc:creator>
@@ -331,7 +331,7 @@
       <link>https://byte-mag.ir/mags/00000111/academic-ce/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/academic-ce/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>معرفی فضای آکادمیک در رشته مهندسی کامپیوتر</description>
+      <description>معرفی فضای آکادمیک در رشته مهندسی کامپیوتر — وقتی از بسیاری از تازه‌واردان به رشتهٔ مهندسی کامپیوتر پرسیده می‌شود که «رؤیای شما بعد از فارغ‌التحصیلی چیست؟»…</description>
       <dc:creator>سید پارسا نشایی</dc:creator>
       <category>Research</category>
       <category>Career</category>
@@ -341,7 +341,7 @@
       <link>https://byte-mag.ir/mags/00000111/write-paper/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/write-paper/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>تجربهٔ نوشتن مقاله در مهندسی کامپیوتر</description>
+      <description>تجربهٔ نوشتن مقاله در مهندسی کامپیوتر — پای صحبت سال اولی‌ها که می‌نشینیم، فقط بحث دروس پایه و درس مبانی شنیده می‌شود؛ ولی همین‌طور که داخل دانشکده راه…</description>
       <dc:creator>محمدحسین اسلامی</dc:creator>
       <category>Research</category>
       <category>ورودی</category>
@@ -351,7 +351,7 @@
       <link>https://byte-mag.ir/mags/00000111/apply/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/apply/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>تجربهٔ اپلای تحصیلی در مهندسی کامپیوتر</description>
+      <description>تجربهٔ اپلای تحصیلی در مهندسی کامپیوتر — اسم دانشگاه شریف و اپلای، چندین ساله که به هم گره خورده. از داستان‌های خیالی و تعریف‌های اقوام در رابطه با دعوت‌نامه…</description>
       <dc:creator>مهدی لطفیان</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -361,7 +361,7 @@
       <link>https://byte-mag.ir/mags/00000111/internship/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/internship/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>تجربهٔ رفتن به اینترنشیپ در مهندسی کامپیوتر</description>
+      <description>تجربهٔ رفتن به اینترنشیپ در مهندسی کامپیوتر — ممکنه که خیلی از شما دربارهٔ اینترنشیپ اطلاعی نداشته باشید یا اسمش رو فقط از سال‌بالایی‌ها شنیده باشید. برای…</description>
       <dc:creator>عسل مسکین</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -371,7 +371,7 @@
       <link>https://byte-mag.ir/mags/00000111/work-industry/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/work-industry/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>دانشگاه «در برابر» یا «در کنار» صنعت</description>
+      <description>دانشگاه «در برابر» یا «در کنار» صنعت — دوران کارشناسی از بهترین فرصت‌ها برای کسب تجارب گوناگون و شناخت علایق و مسیر آیندهٔ حرفه‌ای به‌شمار می‌آید. یکی از…</description>
       <dc:creator>عرشیا اخوان</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -381,7 +381,7 @@
       <link>https://byte-mag.ir/mags/00000111/coop-1/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/coop-1/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>تجربهٔ طرح کوآپ می‌ارزد یا نه؟</description>
+      <description>تجربهٔ طرح کوآپ می‌ارزد یا نه؟ — کوآپ یا « کارآموزی همکاری » یه برنامهٔ آموزشی-کاریه. به زبان ساده، یه دوره‌ست که دانشجو به‌جای این‌که فقط تو کلاس بشینه، برای…</description>
       <dc:creator>مهدی محمدی</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -391,7 +391,7 @@
       <link>https://byte-mag.ir/mags/00000111/coop-2/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/coop-2/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>کوآپ، جعبه‌ای از تجربیات متنوع</description>
+      <description>کوآپ، جعبه‌ای از تجربیات متنوع — من هم مثل خیلی‌ها در ابتدا برای رفتن به کوآپ تردید داشتم؛ اما در نهایت علاقه‌ام به ورود به دنیای کار و دیدن کاربرد عملی…</description>
       <dc:creator>ثمین اکبری</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -401,7 +401,7 @@
       <link>https://byte-mag.ir/mags/00000111/resume/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/resume/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>دروازهٔ ورود به بدبختی بعدی</description>
+      <description>دروازهٔ ورود به بدبختی بعدی — سلام. تبریک می‌گویم بابت قبولی شما در رشتۀ مهندسی کامپیوتر دانشگاه شریف. همان‌طور که کنکور و المپیاد را پشت‌سر گذاشته‌اید، در…</description>
       <dc:creator>محمد مصیبی</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -411,6 +411,7 @@
       <link>https://byte-mag.ir/mags/00000111/punch-line/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/punch-line/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+      <description>آدم ‌ها در دوران دانشجویی مسیرهای متفاوتی را دنبال می‌کنند؛ مسیر بعضی‌ها هم از صنعت می‌گذرد. ورود به صنعت برای دانشجوهای رشتۀ ما معمولاً بعد از سال دوم و حتی…</description>
       <dc:creator>مهدیار مستشار</dc:creator>
       <category>Career</category>
       <category>ورودی</category>
@@ -420,7 +421,7 @@
       <link>https://byte-mag.ir/mags/00000111/upperyear/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/upperyear/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>صبحت‌هایی از دانشجویان سال‌بالایی برای ورودی‌های جدید دانشکده</description>
+      <description>صبحت‌هایی از دانشجویان سال‌بالایی برای ورودی‌های جدید دانشکده — بهت تبریک می‌گم که از مسیر سخت و پرچالش کنکور یا المپیاد موفق بیرون اومدی و به این دانشکده…</description>
       <dc:creator>فاطمه نیلفروشان</dc:creator>
       <dc:creator>محمدامین عباسفر</dc:creator>
       <dc:creator>امیرحسین روان‌نخجوانی</dc:creator>
@@ -439,7 +440,7 @@
       <link>https://byte-mag.ir/mags/00000111/student-activity/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/student-activity/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>معرفی فعالیت دانشجویی در دانشکده</description>
+      <description>معرفی فعالیت دانشجویی در دانشکده — روزهای نخست ورودم به دانشکده برایم یک شوک واقعی بود. تا پیش از آن، مانند رودی بودم که مسیرش از پیش تعیین شده بود؛ درس…</description>
       <dc:creator>امید حیدری</dc:creator>
       <category>ورودی</category>
     </item>
@@ -448,7 +449,7 @@
       <link>https://byte-mag.ir/mags/00000111/ta/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/ta/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>فرهنگ تی‌ای شدن در دانشکده</description>
+      <description>فرهنگ تی‌ای شدن در دانشکده — احتمالاً در همین روزهای اول آغاز دانشگاه با واژهٔ دستیار آموزشی یا تی‌ای رو‌به‌رو شده باشید. دانشجویان سال‌بالایی که بسته به درس…</description>
       <dc:creator>امیرمهدی نامجو</dc:creator>
       <category>ورودی</category>
       <category>Career</category>
@@ -458,7 +459,7 @@
       <link>https://byte-mag.ir/mags/00000111/fieldintro-ai/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-ai/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Artificial Intelligence</description>
+      <description>Intro to Artificial Intelligence — تا حالا شده قبل از این‌که جمله‌ت تموم بشه، گوگل با تکمیل کلماتت دقیقاً حدس بزنه که چی می‌خواستی بگی؟ یا تا حالا از خودت…</description>
       <dc:creator>آرش ماری‌اوریاد</dc:creator>
       <category>AI</category>
       <category>ورودی</category>
@@ -468,7 +469,7 @@
       <link>https://byte-mag.ir/mags/00000111/ai-costs-benefits/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/ai-costs-benefits/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>شیوهٔ صحیح رفتار با هوش مصنوعی!</description>
+      <description>شیوهٔ صحیح رفتار با هوش مصنوعی! — هر روز که می‌گذره، خبرهای جدیدی از پیشرفت بهترین مدل‌های بزرگ زبانی شرکت‌های بزرگ و دستاوردهای خفن‌شون می‌شنویم؛ یکی آدم‌های…</description>
       <dc:creator>آرمان طهماسبی‌زاده</dc:creator>
       <category>AI</category>
       <category>ورودی</category>
@@ -478,7 +479,7 @@
       <link>https://byte-mag.ir/mags/00000111/fieldintro-se/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-se/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Software</description>
+      <description>Intro to Software — گرایش نرم‌افزار در رشته‌ٔ مهندسی کامپیوتر احتمالاً یکی از آن گرایش‌هایی‌ است که زیاد اسمش را شنیده‌اید. در گذشته‌های نه‌چندان دور -که هنوز…</description>
       <dc:creator>معین آعلی</dc:creator>
       <category>Programming</category>
       <category>ورودی</category>
@@ -488,7 +489,7 @@
       <link>https://byte-mag.ir/mags/00000111/fieldintro-security/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-security/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Data &amp; Network Security</description>
+      <description>Intro to Data &amp; Network Security — امنیت سایبری از آن حوزه‌هایی است که تقریباً همهٔ افراد نام آن را چه در فیلم‌های هالیوودی و چه در اخبار مربوط به هک و حملات…</description>
       <dc:creator>Amnam</dc:creator>
       <category>Security</category>
       <category>ورودی</category>
@@ -498,7 +499,7 @@
       <link>https://byte-mag.ir/mags/00000111/fieldintro-hw/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-hw/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Hardware &amp; Computer Architecture</description>
+      <description>Intro to Hardware &amp; Computer Architecture — وقتی از رشتهٔ مهندسی کامپیوتر صحبت می‌کنیم، ذهن بسیاری به‌سرعت به سمت برنامه‌نویسی، نرم‌افزار و هوش مصنوعی -که…</description>
       <dc:creator>فرزام کوهی</dc:creator>
       <category>Hardware</category>
       <category>ورودی</category>
@@ -508,7 +509,7 @@
       <link>https://byte-mag.ir/mags/00000111/fieldintro-networks/</link>
       <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-networks/</guid>
       <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Computer Networks</description>
+      <description>Intro to Computer Networks — احتمالاً اولین تصویری که پس از شنیدن اسم «شبکه» در ذهن‌تان شکل می‌گیرد، تعدادی کامپیوتر است که با استفاده از تعدادی کابل به…</description>
       <dc:creator>امیرحسین محمدزاده</dc:creator>
       <category>Network</category>
       <category>ورودی</category>
