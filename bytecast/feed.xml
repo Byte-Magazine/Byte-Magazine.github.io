@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>بایت‌کست | بایت</title>
+    <link>https://byte-mag.ir/bytecast/</link>
+    <atom:link href="https://byte-mag.ir/bytecast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>بایت‌کست، پادکست نشریه‌ی علمی فرهنگی بایت؛ گفت‌وگو با اساتید دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی شریف دربارهٔ مسیر پژوهش، آموزش، صنعت و تجربهٔ دانشجویی</description>
+    <language>fa</language>
+    <itunes:author>نشریه‌ی علمی فرهنگی بایت</itunes:author>
+    <itunes:owner>
+      <itunes:name>نشریه‌ی علمی فرهنگی بایت</itunes:name>
+      <itunes:email>bytepublication@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://byte-mag.ir/img/bytecast/s01e01-cover.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>گفت‌وگو با دکتر شاهین حسابی</title>
+      <link>https://byte-mag.ir/bytecast/s01e01/</link>
+      <guid isPermaLink="false">bytecast-s01e01</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+      <description>نیلا کشاورز با دکتر شاهین حسابی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از «برق» شریف و دکترا در کانادا تا شتاب‌دهنده‌های هوش مصنوعی، پیوند دانشگاه و صنعت و کوآپ.</description>
+      <enclosure url="https://s3.byte-mag.ir/podcast/ByteCast-E01-final.mp3" length="15667337" type="audio/mpeg"/>
+      <itunes:title>گفت‌وگو با دکتر شاهین حسابی</itunes:title>
+      <itunes:summary>نیلا کشاورز با دکتر شاهین حسابی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از «برق» شریف و دکترا در کانادا تا شتاب‌دهنده‌های هوش مصنوعی، پیوند دانشگاه و صنعت و کوآپ.</itunes:summary>
+      <itunes:duration>1300</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://byte-mag.ir/img/bytecast/s01e01-cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
