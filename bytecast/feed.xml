@@ -11,10 +11,26 @@
       <itunes:name>نشریه‌ی علمی فرهنگی بایت</itunes:name>
       <itunes:email>bytepublication@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://byte-mag.ir/img/bytecast/s01e01-cover.jpg"/>
+    <itunes:image href="https://byte-mag.ir/img/bytecast/s01e02-cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>گفت‌وگو با دکتر مریم رمضانی</title>
+      <link>https://byte-mag.ir/bytecast/season/1/episode/2/</link>
+      <guid isPermaLink="false">bytecast-s01e02</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 GMT</pubDate>
+      <description>امیرحسین صوری با دکتر مریم رمضانی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از انتخاب اتفاقی فناوری اطلاعات تا سیستم‌های هوش مصنوعی داده‌محور، فاصله‌ی دانشگاه و صنعت، کارآموزی و دوری از «جوّ» دانشکده.</description>
+      <enclosure url="https://s3.byte-mag.ir/podcast/ByteCast-E02-final.mp3" length="28949776" type="audio/mpeg"/>
+      <itunes:title>گفت‌وگو با دکتر مریم رمضانی</itunes:title>
+      <itunes:summary>امیرحسین صوری با دکتر مریم رمضانی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از انتخاب اتفاقی فناوری اطلاعات تا سیستم‌های هوش مصنوعی داده‌محور، فاصله‌ی دانشگاه و صنعت، کارآموزی و دوری از «جوّ» دانشکده.</itunes:summary>
+      <itunes:duration>2407</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://byte-mag.ir/img/bytecast/s01e02-cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>گفت‌وگو با دکتر شاهین حسابی</title>
       <link>https://byte-mag.ir/bytecast/season/1/episode/1/</link>
