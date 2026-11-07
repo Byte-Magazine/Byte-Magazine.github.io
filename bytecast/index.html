@@ -4,7 +4,7 @@
     var root = document.documentElement;
     var query = window.matchMedia("(prefers-color-scheme: dark)");
 
-    var read = function () {
+    var read = function () { 
       try {
         var raw = localStorage.getItem("byte-theme");
         if (!raw) return "dark";
