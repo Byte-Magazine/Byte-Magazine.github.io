@@ -11,10 +11,26 @@
       <itunes:name>نشریه‌ی علمی فرهنگی بایت</itunes:name>
       <itunes:email>bytepublication@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://byte-mag.ir/img/bytecast/s01e02-cover.jpg"/>
+    <itunes:image href="https://byte-mag.ir/img/bytecast/s01e03-cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>گفت‌وگو با دکتر حسین اسدی</title>
+      <link>https://byte-mag.ir/bytecast/season/1/episode/3/</link>
+      <guid isPermaLink="false">bytecast-s01e03</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <description>عرفان تیموری با دکتر حسین اسدی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از دوران کودکی و دانشجویی تا پژوهش در حوزه‌ی سیستم‌ها، فاصله‌ی دانشگاه و صنعت، اثر هوش مصنوعی، ویژگی دانشجوهای موفق و چند سؤال سریع.</description>
+      <enclosure url="https://s3.byte-mag.ir/podcast/ByteCast-E03-final.mp3" length="28209491" type="audio/mpeg"/>
+      <itunes:title>گفت‌وگو با دکتر حسین اسدی</itunes:title>
+      <itunes:summary>عرفان تیموری با دکتر حسین اسدی از دانشکده‌ی مهندسی کامپیوتر شریف گفت‌وگو می‌کند: از دوران کودکی و دانشجویی تا پژوهش در حوزه‌ی سیستم‌ها، فاصله‌ی دانشگاه و صنعت، اثر هوش مصنوعی، ویژگی دانشجوهای موفق و چند سؤال سریع.</itunes:summary>
+      <itunes:duration>2345</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://byte-mag.ir/img/bytecast/s01e03-cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>گفت‌وگو با دکتر مریم رمضانی</title>
       <link>https://byte-mag.ir/bytecast/season/1/episode/2/</link>

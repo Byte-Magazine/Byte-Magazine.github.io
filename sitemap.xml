@@ -24,7 +24,7 @@
 </url>
 <url>
 <loc>https://byte-mag.ir/bytecast/</loc>
-<lastmod>2026-10-23T00:00:00.000Z</lastmod>
+<lastmod>2026-11-06T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://byte-mag.ir/staff/</loc>
@@ -74,6 +74,10 @@
 <url>
 <loc>https://byte-mag.ir/mags/00000001/</loc>
 <lastmod>2023-11-28T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://byte-mag.ir/bytecast/season/1/episode/3/</loc>
+<lastmod>2026-11-06T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://byte-mag.ir/bytecast/season/1/episode/2/</loc>
@@ -906,6 +910,10 @@
 <loc>https://byte-mag.ir/authors/SohaibSadeqi/</loc>
 </url>
 <url>
+<loc>https://byte-mag.ir/authors/ErfanTeymouri/</loc>
+<lastmod>2026-11-06T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://byte-mag.ir/authors/AliAlmasi/</loc>
 </url>
 <url>
@@ -924,6 +932,10 @@
 <url>
 <loc>https://byte-mag.ir/authors/nilaKeshavarz/</loc>
 <lastmod>2026-10-16T00:00:00.000Z</lastmod>
+</url>
+<url>
+<loc>https://byte-mag.ir/authors/HosseinAsadi/</loc>
+<lastmod>2026-11-06T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://byte-mag.ir/authors/MobinRavan/</loc>
