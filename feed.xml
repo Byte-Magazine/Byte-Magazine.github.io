@@ -5,8 +5,104 @@
     <link>https://byte-mag.ir/</link>
     <description>نشریه‌ی علمی فرهنگی بایت، دانشکده‌ی مهندسی کامپیوتر دانشگاه صنعتی شریف؛ مقاله‌هایی دربارهٔ هوش مصنوعی، امنیت، شبکه، سخت‌افزار، سیستم‌ها و زندگی دانشجویی</description>
     <language>fa-IR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
     <atom:link href="https://byte-mag.ir/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>عشق، دروغ و سیلیکون؛ بحران شخصی در قلب صنعت تراشه</title>
+      <link>https://byte-mag.ir/mags/00001011/love-lies-and-silicon/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/love-lies-and-silicon/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>مروری بر گزارش‌های مربوط به جنسن هوانگ و Megaspeed، ادعاهای جاسوسی و انتقال تراشه و پیامدهای بحران برای بازار و امنیت زنجیرهٔ تأمین.</description>
+      <dc:creator>امیرحسین شهیدی</dc:creator>
+      <category>Hardware</category>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>از LXC و داکر تا Firecracker؛ بررسی سیر تکامل کانتینرها و ایزوله‌سازی</title>
+      <link>https://byte-mag.ir/mags/00001011/linux-containers-evolution/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/linux-containers-evolution/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>سیر تکامل کانتینرها از chroot و LXC تا داکر، containerd، CRI، Podman و Rootless؛ و چرا عصر عامل‌های هوش مصنوعی پای MicroVMهایی مثل Firecracker را باز کرد</description>
+      <dc:creator>امیرحسین محمدزاده</dc:creator>
+      <category>Linux</category>
+      <category>DevOps</category>
+      <category>Security</category>
+      <category>Systems</category>
+    </item>
+    <item>
+      <title>امنیت وب در عصر پساکوانتوم</title>
+      <link>https://byte-mag.ir/mags/00001011/post-quantum-web-security/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/post-quantum-web-security/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>مروری بر نقش TLS، گواهی‌های وب و زنجیرهٔ اعتماد، تهدید رایانش کوانتومی و طرح گواهی‌های درخت مرکل برای کوچک ماندن دست‌تکانی.</description>
+      <dc:creator>علی الماسی</dc:creator>
+      <category>Security</category>
+      <category>Internet</category>
+      <category>Quantum</category>
+    </item>
+    <item>
+      <title>فقط یک GPU، احساس ناکافی بودن</title>
+      <link>https://byte-mag.ir/mags/00001011/multi-gpu-parallelism/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/multi-gpu-parallelism/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>مقایسهٔ روش‌های موازی‌سازی داده، تنسور، پایپ‌لاین، دنباله، کانتکست و متخصص برای آموزش و اجرای مدل‌های بزرگ روی چند GPU.</description>
+      <dc:creator>امیرحسین صوری</dc:creator>
+      <category>Hardware</category>
+      <category>AI</category>
+      <category>Systems</category>
+    </item>
+    <item>
+      <title>وقتی ابزار دفاع، ابزار حمله می‌شود</title>
+      <link>https://byte-mag.ir/mags/00001011/ebpf-linkpro-rootkit/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/ebpf-linkpro-rootkit/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>روایت رخداد LinkPro و سوءاستفاده از eBPF در لینوکس، با تمرکز بر تشخیص روت‌کیت از چند منبع و بازیابی اعتماد به میزبان آلوده.</description>
+      <dc:creator>محمدامین کوهی</dc:creator>
+      <category>eBPF</category>
+      <category>Linux</category>
+      <category>Security</category>
+      <category>Malware</category>
+    </item>
+    <item>
+      <title>از کدنویسی تا اثبات: نیم‌نگاهی به زبان Lean</title>
+      <link>https://byte-mag.ir/mags/00001011/lean-formal-verification/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/lean-formal-verification/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>آشنایی با Lean به‌عنوان زبان برنامه‌نویسی و اثبات‌گر قضایا، از درستی صوری و انواع وابسته تا Mathlib و بررسی اثبات‌های پیشنهادی هوش مصنوعی.</description>
+      <dc:creator>فرزام کوهی</dc:creator>
+      <category>Programming</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>ماجرای مهندسی معکوس گرافیک Apple M1 در پروژهٔ Asahi Linux</title>
+      <link>https://byte-mag.ir/mags/00001011/asahi-m1-graphics/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/asahi-m1-graphics/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>روایت ساخت درایور آزاد گرافیک Apple M1 در Asahi Linux، از رمزگشایی دستورهای Shader و رسم نخستین مثلث تا اجرای بازی‌ها با Vulkan.</description>
+      <dc:creator>آریان افضل‌زاده</dc:creator>
+      <category>Hardware</category>
+      <category>Linux</category>
+      <category>Systems</category>
+    </item>
+    <item>
+      <title>زحمت رندرش با شما!</title>
+      <link>https://byte-mag.ir/mags/00001011/dlss-neural-rendering/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/dlss-neural-rendering/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>مسیر تکامل DLSS از بازسازی تصویر و تولید فریم تا رندر عصبی در DLSS 5 و نقش مدل‌های یادگیری عمیق در گرافیک بی‌درنگ بازی‌ها.</description>
+      <dc:creator>محمدحسین اسلامی</dc:creator>
+      <category>Hardware</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>۳، ۲، ۱؛ ادامهٔ حرکت</title>
+      <link>https://byte-mag.ir/mags/00001011/sarmaghale/</link>
+      <guid isPermaLink="true">https://byte-mag.ir/mags/00001011/sarmaghale/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>سورنا کیا در سرمقالهٔ شمارهٔ یازدهم از پیوستن به بایت، تداوم کار نشریه در روزهای تعطیلی دانشگاه و آغاز دورهٔ تازهٔ سردبیری می‌نویسد.</description>
+      <dc:creator>سورنا کیا</dc:creator>
+      <category>سرمقاله</category>
+    </item>
     <item>
       <title>حرف نزن؛ تصمیم بگیر!</title>
       <link>https://byte-mag.ir/mags/00001010/typesafe-jev-system-one/</link>
@@ -408,104 +504,6 @@
       <description>Intro to Algorithms — در مبانی برنامه‌سازی و برنامه‌سازی پیشرفته یاد می‌گیرید چگونه ایده‌ها را به کد تبدیل کنید و برنامه‌های جدی بسازید. اما از جایی به بعد…</description>
       <dc:creator>امیرمحمد شاهرضایی</dc:creator>
       <category>Algorithms</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>معرفی گرایش شبکه‌های کامپیوتری</title>
-      <link>https://byte-mag.ir/mags/00000111/fieldintro-networks/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-networks/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Computer Networks — احتمالاً اولین تصویری که پس از شنیدن اسم «شبکه» در ذهن‌تان شکل می‌گیرد، تعدادی کامپیوتر است که با استفاده از تعدادی کابل به…</description>
-      <dc:creator>امیرحسین محمدزاده</dc:creator>
-      <category>Network</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>معرفی گرایش سخت‌افزار</title>
-      <link>https://byte-mag.ir/mags/00000111/fieldintro-hw/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-hw/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Hardware &amp; Computer Architecture — وقتی از رشتهٔ مهندسی کامپیوتر صحبت می‌کنیم، ذهن بسیاری به‌سرعت به سمت برنامه‌نویسی، نرم‌افزار و هوش مصنوعی -که…</description>
-      <dc:creator>فرزام کوهی</dc:creator>
-      <category>Hardware</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>معرفی گرایش امنیت داده و شبکه</title>
-      <link>https://byte-mag.ir/mags/00000111/fieldintro-security/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-security/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Data &amp; Network Security — امنیت سایبری از آن حوزه‌هایی است که تقریباً همهٔ افراد نام آن را چه در فیلم‌های هالیوودی و چه در اخبار مربوط به هک و حملات…</description>
-      <dc:creator>Amnam</dc:creator>
-      <category>Security</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>معرفی گرایش نرم‌افزار</title>
-      <link>https://byte-mag.ir/mags/00000111/fieldintro-se/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-se/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Software — گرایش نرم‌افزار در رشته‌ٔ مهندسی کامپیوتر احتمالاً یکی از آن گرایش‌هایی‌ است که زیاد اسمش را شنیده‌اید. در گذشته‌های نه‌چندان دور -که هنوز…</description>
-      <dc:creator>معین آعلی</dc:creator>
-      <category>Programming</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>عصای دست یا بلای نسل</title>
-      <link>https://byte-mag.ir/mags/00000111/ai-costs-benefits/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/ai-costs-benefits/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>شیوهٔ صحیح رفتار با هوش مصنوعی! — هر روز که می‌گذره، خبرهای جدیدی از پیشرفت بهترین مدل‌های بزرگ زبانی شرکت‌های بزرگ و دستاوردهای خفن‌شون می‌شنویم؛ یکی آدم‌های…</description>
-      <dc:creator>آرمان طهماسبی‌زاده</dc:creator>
-      <category>AI</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>معرفی گرایش هوش مصنوعی</title>
-      <link>https://byte-mag.ir/mags/00000111/fieldintro-ai/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/fieldintro-ai/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>Intro to Artificial Intelligence — تا حالا شده قبل از این‌که جمله‌ت تموم بشه، گوگل با تکمیل کلماتت دقیقاً حدس بزنه که چی می‌خواستی بگی؟ یا تا حالا از خودت…</description>
-      <dc:creator>آرش ماری‌اوریاد</dc:creator>
-      <category>AI</category>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>تی‌ای‌ها، ستون‌های آموزش در دانشکده</title>
-      <link>https://byte-mag.ir/mags/00000111/ta/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/ta/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>فرهنگ تی‌ای شدن در دانشکده — احتمالاً در همین روزهای اول آغاز دانشگاه با واژهٔ دستیار آموزشی یا تی‌ای رو‌به‌رو شده باشید. دانشجویان سال‌بالایی که بسته به درس…</description>
-      <dc:creator>امیرمهدی نامجو</dc:creator>
-      <category>ورودی</category>
-      <category>Career</category>
-    </item>
-    <item>
-      <title>فراتر از نمره؛ چرا فعالیت دانشجویی مهم است؟</title>
-      <link>https://byte-mag.ir/mags/00000111/student-activity/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/student-activity/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>معرفی فعالیت دانشجویی در دانشکده — روزهای نخست ورودم به دانشکده برایم یک شوک واقعی بود. تا پیش از آن، مانند رودی بودم که مسیرش از پیش تعیین شده بود؛ درس…</description>
-      <dc:creator>امید حیدری</dc:creator>
-      <category>ورودی</category>
-    </item>
-    <item>
-      <title>چند کلام از سال‌بالایی‌ها</title>
-      <link>https://byte-mag.ir/mags/00000111/upperyear/</link>
-      <guid isPermaLink="true">https://byte-mag.ir/mags/00000111/upperyear/</guid>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-      <description>صبحت‌هایی از دانشجویان سال‌بالایی برای ورودی‌های جدید دانشکده — بهت تبریک می‌گم که از مسیر سخت و پرچالش کنکور یا المپیاد موفق بیرون اومدی و به این دانشکده…</description>
-      <dc:creator>فاطمه نیلفروشان</dc:creator>
-      <dc:creator>محمدامین عباسفر</dc:creator>
-      <dc:creator>امیرحسین روان‌نخجوانی</dc:creator>
-      <dc:creator>امیرحسین شایان</dc:creator>
-      <dc:creator>آیناز رحمانی</dc:creator>
-      <dc:creator>سیداحمد موسوی‌اول</dc:creator>
-      <dc:creator>مهدی بهرامیان</dc:creator>
-      <dc:creator>پریسا جلالی</dc:creator>
-      <dc:creator>مائده حیدری</dc:creator>
-      <dc:creator>محمدحسن بیاتیانی</dc:creator>
-      <dc:creator>امیرمهدی کوششی</dc:creator>
       <category>ورودی</category>
     </item>
   </channel>
